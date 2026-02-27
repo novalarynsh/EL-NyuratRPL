@@ -5,4 +5,5 @@ Nama Anggota :
 2. Fhia Amelia (2431417076)
 
 Link Tugas :<br>
-[Gantt Chart](https://docs.google.com/spreadsheets/d/118UQegkzVPbn31g7OVOXIAW-HZ5QWBgRpQ5P4BI0raY/edit?usp=sharing)
+[Gantt Chart](https://docs.google.com/spreadsheets/d/118UQegkzVPbn31g7OVOXIAW-HZ5QWBgRpQ5P4BI0raY/edit?usp=sharing) <br>
+[Link PPT](https://www.canva.com/design/DAHCfQWV1iQ/U402FBM09F4OFTnTLimAtg/edit?utm_content=DAHCfQWV1iQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
