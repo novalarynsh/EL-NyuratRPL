@@ -1,7 +1,14 @@
 # Pembuatan Surat Otomatis “EL-Nyurat” untuk Mendukung Administrasi Organisasi Mahasiswa
 
-## Nama Tim: RavencluELess
+> **Mata Kuliah:** Rekayasa Piranti Lunak
+>
+> **Kode Kelas:** FS306A
+>
+> **Dosen Pengampu:** Karunia Suci Lestari, S.Kom., M.TI.
 
+---
+
+## Nama Tim: RavencluELess
 ### Nama Anggota:
 1. **Muhammad Noval Aryansah** (2431417069)
 2. **Fhia Amelia** (2431417076)
